@@ -1,37 +1,29 @@
 #EXTM3U
-#EXTINF:-1,MAS
-http://iptv.jaze.xyz/MY.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/MY.m3u
 
 #EXTM3U
-#EXTINF:-1,INDO
-http://iptv.jaze.xyz/ID.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/ID.m3u
 
 #EXTM3U
-#EXTINF:-1,SG
-http://iptv.jaze.xyz/SG.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/SG.m3u
 
 #EXTM3U
-#EXTINF:-1,KR
-http://iptv.jaze.xyz/KR.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/KR.m3u
 
 
 EXTM3U
-#EXTINF:-1,USA
-http://iptv.jaze.xyz/US.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/US.m3u
 
 
 EXTM3U
-#EXTINF:-1,UK
-http://iptv.jaze.xyz/UK.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/UK.m3u
 
 
 EXTM3U
-#EXTINF:-1,THAI
-http://iptv.jaze.xyz/TH.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/TH.m3u
 
 
 EXTM3U
-#EXTINF:-1,MOVIES
-http://iptv.jaze.xyz/MOVIES.m3u
+#EXTINF:-1,http://iptv.jaze.xyz/MOVIES.m3u
 
 
