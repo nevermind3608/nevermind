@@ -15,22 +15,22 @@ http://iptv.jaze.xyz/sg.m3u
 http://iptv.jaze.xyz/kr.m3u
 
 
-EXTM3U
+#EXTM3U
 #EXTINF:-1,USA
 http://iptv.jaze.xyz/us.m3u
 
 
-EXTM3U
+#EXTM3U
 #EXTINF:-1,UK
 http://iptv.jaze.xyz/uk.m3u
 
 
-EXTM3U
+#EXTM3U
 #EXTINF:-1,THAI
 http://iptv.jaze.xyz/th.m3u
 
 
-EXTM3U
+#EXTM3U
 #EXTINF:-1,MOVIES
 http://iptv.jaze.xyz/movies.m3u
 
